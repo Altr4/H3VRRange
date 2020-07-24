@@ -13,6 +13,7 @@ How to Install:
 4. Extract Range folder in Generic Folder
 5. When you get into the game, the Scene should be right behind you
 
+For visual learner: Janky shitty GIF incoming!
 ![For visual learner: Janky shitty GIF incoming!](How.gif)
 
 Expect Issue:
