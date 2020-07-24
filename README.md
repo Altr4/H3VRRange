@@ -12,3 +12,7 @@ How to Install:
 3. Open Customs Level -> Generic
 4. Extract Range folder in Generic Folder
 5. When you get into the game, the Scene should be right behind you
+
+Expect Issue:
+1. Spinner target won't rest vertically on their own, you can help it rest vertically by touching it with your gun or bullet
+2. Some object like the wall and blue barrel have jank collision if you rest something on top of it
