@@ -13,7 +13,7 @@ How to Install:
 4. Extract Range folder in Generic Folder
 5. When you get into the game, the Scene should be right behind you
 
-![For visual learner:](How to.gif)
+![For visual learner: Janky shitty GIF incoming!](How.gif)
 
 Expect Issue:
 1. Spinner target won't rest vertically on their own, you can help it rest vertically by touching it with your gun or bullet
