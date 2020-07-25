@@ -1,4 +1,4 @@
-# H3VRRange
+# Shooty Range
 This is made with Wurstmod that you'll need to download first: https://github.com/Nolenz/WurstMod
 
 This is a H3VR range scene made with practically zero experience and knowledge so expect some weird collision stuff happening. The range set up is inspired from InrangeTV's competition videos.
