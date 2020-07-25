@@ -8,7 +8,7 @@ How to Install:
 
 0.5 Install Wurstmod first
 1. Download the Range.zip in "Release"
-2. Go to your H3VR folder
+2. Go to your H3VR folder (right click H3VR on steam -> manage -> browse local files)
 3. Open Customs Level -> Generic
 4. Extract Range folder in Generic Folder
 5. When you get into the game, the Scene should be right behind you
