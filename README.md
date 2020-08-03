@@ -19,5 +19,4 @@ For visual learner: Janky shitty GIF incoming!
 
 Expect Issue:
 1. Spinner target won't rest vertically on their own, you can help it rest vertically by touching it slightly with your bullet
-2. Blue barrel have jank collision if you rest something on top of it
-3. Cannot use the "brace" feature on any of the object
+3. Cannot use the "brace" feature on some of the object
